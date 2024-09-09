@@ -1,5 +1,5 @@
 # OlderVerify
-> Primeira Aula de Técnicas de Programação I
+> Técnicas de Programação I
 > > Algoritmo de Classificação de Idade em Java
 > > > Utilizando Eclipse IDE
 
