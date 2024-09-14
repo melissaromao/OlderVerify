@@ -5,6 +5,6 @@
 
 - **Declaração de Variáveis:** Tipo `int` e `string`.
 - **Importação de Bibliotecas:** Classe `Scanner`.
-- **Criação de Objetos:** Variável de referência "sc" do objeto Scanner.
-- **Leitura de Dados do Teclado:** Dados armazenados nas variáveis e lidos usando "sc".
+- **Criação de Objetos:** Variável de nome `sc` que faz referência ao objeto `Scanner`.
+- **Leitura de Dados do Teclado:** Dados armazenados nas variáveis e lidos usando `sc`.
 - **Uso de Estruturas Condicionais:** Estrutura `if-else` para verificar a idade e classificar entre as categorias existentes.
